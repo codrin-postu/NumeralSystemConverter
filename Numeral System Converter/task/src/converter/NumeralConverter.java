@@ -12,24 +12,17 @@ public class NumeralConverter {
             decimalSource = sourceNumber.substring(0, sourceNumber.indexOf("."));
             fractionalSource = sourceNumber.substring(sourceNumber.indexOf(".") + 1);
 
-
             hexaDecimal = ConvertToHexa(decimalSource, sourceRadix);
             hexaFractional = ConvertFractionalToHexa(fractionalSource, sourceRadix);
-        } else {
 
-            hexaDecimal = ConvertToHexa(sourceNumber, sourceRadix);
-
-        }
-
-
-        if (hexaFractional != -1) {
             targetNumber.append(ConvertToBase(hexaDecimal, hexaFractional, targetRadix));
         } else {
+            hexaDecimal = ConvertToHexa(sourceNumber, sourceRadix);
+
             targetNumber.append(ConvertToBase(hexaDecimal, targetRadix));
         }
 
         return targetNumber.toString();
-
     }
 
     private static double ConvertFractionalToHexa(String fractionalSource, int sourceRadix) {
@@ -38,7 +31,6 @@ public class NumeralConverter {
         ) {
             value += Character.getNumericValue(c) / Math.pow(sourceRadix, fractionalSource.indexOf(c) + 1);
         }
-
         return value;
     }
 
@@ -54,7 +46,6 @@ public class NumeralConverter {
         } else {
             hexaNumber = Integer.parseInt(String.valueOf(sourceNumber), sourceRadix);
         }
-
         return hexaNumber;
     }
 
@@ -83,13 +74,14 @@ public class NumeralConverter {
         }
 
         targetNumber.append(".");
+
         //Calculating the fractional part now.
         for (int i = 0; i < 5; i++) {
             hexaFractional = hexaFractional * targetRadix;
             targetNumber.append(Integer.toString((int) hexaFractional, targetRadix));
             hexaFractional -= (int) hexaFractional;
         }
-
+        
         return targetNumber.toString();
     }
 

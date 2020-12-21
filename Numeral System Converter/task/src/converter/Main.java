@@ -21,9 +21,8 @@ public class Main {
             return;
         }
 
-       if (!VerifyInput(sourceNumber,sourceRadix,targetRadix)){
-           return;
-       }
+       if (!VerifyInput(sourceNumber,sourceRadix,targetRadix)) return;
+
 
         String targetNumber = NumeralConverter.ConvertNumber(sourceNumber, sourceRadix, targetRadix);
 
