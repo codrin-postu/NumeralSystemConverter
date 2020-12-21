@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c63d4aad-62e7-44ad-b3d4-f96d5ee5fd7c" name="Default Changelist" comment="" />
+    <list default="true" id="c63d4aad-62e7-44ad-b3d4-f96d5ee5fd7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/Almost an octopus/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/Almost an octopus/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/Any which radix/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/Any which radix/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/Convert decimals/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/Convert decimals/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/Converting fractions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/Converting fractions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/Error!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/Error!/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/For example/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/For example/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/task/src/converter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/task/src/converter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/task/test/ConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/task/test/ConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +34,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lyuLJmi5ZCd4WoHFkBnalzbnFN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,10 +52,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converter.Main" />
+      <module name="Numeral_System_Converter-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,11 +88,89 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608581594748</updated>
-      <workItem from="1608581596783" duration="25000" />
+      <workItem from="1608581596783" duration="7225000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1685" height="376" key="GridCell.Tab.-1.bottom" timestamp="1608586300501">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.-1.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1608586300501" />
+    <state width="1685" height="376" key="GridCell.Tab.-1.center" timestamp="1608586300501">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.-1.center/0.0.1728.1112@0.0.1728.1112" timestamp="1608586300501" />
+    <state width="1685" height="376" key="GridCell.Tab.-1.left" timestamp="1608586300505">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.-1.left/0.0.1728.1112@0.0.1728.1112" timestamp="1608586300505" />
+    <state width="1685" height="376" key="GridCell.Tab.-1.right" timestamp="1608586300548">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.-1.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608586300548" />
+    <state width="1685" height="305" key="GridCell.Tab.0.bottom" timestamp="1608589044708">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="305" key="GridCell.Tab.0.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1608589044708" />
+    <state width="1685" height="305" key="GridCell.Tab.0.center" timestamp="1608589044708">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="305" key="GridCell.Tab.0.center/0.0.1728.1112@0.0.1728.1112" timestamp="1608589044708" />
+    <state width="1685" height="305" key="GridCell.Tab.0.left" timestamp="1608589044708">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="305" key="GridCell.Tab.0.left/0.0.1728.1112@0.0.1728.1112" timestamp="1608589044708" />
+    <state width="1685" height="305" key="GridCell.Tab.0.right" timestamp="1608589044708">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="305" key="GridCell.Tab.0.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608589044708" />
+    <state width="1685" height="376" key="GridCell.Tab.1.bottom" timestamp="1608586296549">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.1.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1608586296549" />
+    <state width="1685" height="376" key="GridCell.Tab.1.center" timestamp="1608586296549">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.1.center/0.0.1728.1112@0.0.1728.1112" timestamp="1608586296549" />
+    <state width="1685" height="376" key="GridCell.Tab.1.left" timestamp="1608586296549">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.1.left/0.0.1728.1112@0.0.1728.1112" timestamp="1608586296549" />
+    <state width="1685" height="376" key="GridCell.Tab.1.right" timestamp="1608586296549">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state width="1685" height="376" key="GridCell.Tab.1.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608586296549" />
+    <state x="527" y="243" key="search.everywhere.popup" timestamp="1608583240961">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state x="527" y="243" key="search.everywhere.popup/0.0.1728.1112@0.0.1728.1112" timestamp="1608583240961" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Numeral System Converter/task/src/converter/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Numeral System Converter/task/src/converter/NumeralConverter.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Numeral System Converter/task/src/converter/NumeralConverter.java</url>
+          <line>34</line>
+          <properties class="converter.NumeralConverter" method="ConvertFractionalToHexa">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
