@@ -21,17 +21,31 @@ public class Main {
             return;
         }
 
-        if (sourceRadix > 36 || sourceRadix < 1 || targetRadix > 36 || targetRadix < 1) {
-            System.out.println("Error: Not a valid radix!");
-            return;
-        }
-
-
+       if (!VerifyInput(sourceNumber,sourceRadix,targetRadix)){
+           return;
+       }
 
         String targetNumber = NumeralConverter.ConvertNumber(sourceNumber, sourceRadix, targetRadix);
 
         System.out.println(targetNumber);
 
+    }
+
+    private static boolean  VerifyInput(String sourceNumber,int sourceRadix,int targetRadix){
+        if (sourceRadix > 36 || sourceRadix < 1 || targetRadix > 36 || targetRadix < 1) {
+            System.out.println("Error: Not a valid radix!");
+            return false;
+        }
+
+        for (char c : sourceNumber.toCharArray()
+             ) {
+                if (Character.getNumericValue(c) >= sourceRadix) {
+                    System.out.println("Error: Not a valid number!");
+                    return false;
+                }
+        }
+
+        return true;
     }
 
     private static boolean isNumeric(String str) {
