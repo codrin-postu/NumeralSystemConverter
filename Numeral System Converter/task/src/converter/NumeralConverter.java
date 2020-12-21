@@ -81,7 +81,7 @@ public class NumeralConverter {
             targetNumber.append(Integer.toString((int) hexaFractional, targetRadix));
             hexaFractional -= (int) hexaFractional;
         }
-        
+
         return targetNumber.toString();
     }
 

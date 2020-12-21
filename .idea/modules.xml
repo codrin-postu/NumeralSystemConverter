@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NumeralSystemConverter.iml" filepath="$PROJECT_DIR$/.idea/modules/NumeralSystemConverter.iml" group="NumeralSystemConverter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NumeralSystemConverter.iml" filepath="$PROJECT_DIR$/.idea/NumeralSystemConverter.iml" group="NumeralSystemConverter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter-task.iml" group="NumeralSystemConverter/Numeral_System_Converter-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter-task_main.iml" group="NumeralSystemConverter/Numeral_System_Converter-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter-task_test.iml" group="NumeralSystemConverter/Numeral_System_Converter-task" />

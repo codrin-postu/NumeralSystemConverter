@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c63d4aad-62e7-44ad-b3d4-f96d5ee5fd7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Numeral System Converter/task/src/converter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/task/src/converter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeral System Converter/task/src/converter/NumeralConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Numeral System Converter/task/src/converter/NumeralConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608581594748</updated>
-      <workItem from="1608581596783" duration="7869000" />
+      <workItem from="1608581596783" duration="8852000" />
     </task>
     <servers />
   </component>
@@ -92,22 +97,22 @@
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
     <state width="1685" height="376" key="GridCell.Tab.-1.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608586300548" />
-    <state width="1685" height="305" key="GridCell.Tab.0.bottom" timestamp="1608589799771">
+    <state width="0" height="0" key="GridCell.Tab.0.bottom" timestamp="1608591007113">
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
-    <state width="1685" height="305" key="GridCell.Tab.0.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1608589799771" />
-    <state width="1685" height="305" key="GridCell.Tab.0.center" timestamp="1608589799771">
+    <state width="0" height="0" key="GridCell.Tab.0.bottom/0.0.1728.1112@0.0.1728.1112" timestamp="1608591007113" />
+    <state width="0" height="0" key="GridCell.Tab.0.center" timestamp="1608591007113">
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
-    <state width="1685" height="305" key="GridCell.Tab.0.center/0.0.1728.1112@0.0.1728.1112" timestamp="1608589799771" />
-    <state width="1685" height="305" key="GridCell.Tab.0.left" timestamp="1608589799771">
+    <state width="0" height="0" key="GridCell.Tab.0.center/0.0.1728.1112@0.0.1728.1112" timestamp="1608591007113" />
+    <state width="0" height="0" key="GridCell.Tab.0.left" timestamp="1608591007113">
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
-    <state width="1685" height="305" key="GridCell.Tab.0.left/0.0.1728.1112@0.0.1728.1112" timestamp="1608589799771" />
-    <state width="1685" height="305" key="GridCell.Tab.0.right" timestamp="1608589799771">
+    <state width="0" height="0" key="GridCell.Tab.0.left/0.0.1728.1112@0.0.1728.1112" timestamp="1608591007113" />
+    <state width="0" height="0" key="GridCell.Tab.0.right" timestamp="1608591007113">
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
-    <state width="1685" height="305" key="GridCell.Tab.0.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608589799771" />
+    <state width="0" height="0" key="GridCell.Tab.0.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608591007113" />
     <state width="1685" height="376" key="GridCell.Tab.1.bottom" timestamp="1608586296549">
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
@@ -124,6 +129,10 @@
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
     <state width="1685" height="376" key="GridCell.Tab.1.right/0.0.1728.1112@0.0.1728.1112" timestamp="1608586296549" />
+    <state x="305" y="168" key="new project wizard" timestamp="1608590862872">
+      <screen x="0" y="0" width="1728" height="1112" />
+    </state>
+    <state x="305" y="168" key="new project wizard/0.0.1728.1112@0.0.1728.1112" timestamp="1608590862872" />
     <state x="527" y="243" key="search.everywhere.popup" timestamp="1608583240961">
       <screen x="0" y="0" width="1728" height="1112" />
     </state>
@@ -134,16 +143,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Numeral System Converter/task/src/converter/NumeralConverter.java</url>
-          <line>86</line>
+          <line>78</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Numeral System Converter/task/src/converter/NumeralConverter.java</url>
-          <line>34</line>
-          <properties class="converter.NumeralConverter" method="ConvertFractionalToHexa">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
